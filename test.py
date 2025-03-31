@@ -1,2 +1,1 @@
-def learn():
-    print ("OSS개발")
+print ("OSS개발")
