@@ -13,7 +13,7 @@ int main() {
         for (int j = 0; j < 4; j++) {
         sum += array[i][j];
         }
-        cout << array[i][j] << endl;
+        cout << sum << endl;
     }// Please write your code here.
     return 0;
 }
